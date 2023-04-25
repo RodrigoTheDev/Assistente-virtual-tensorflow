@@ -1,0 +1,71 @@
+Estou com uma raiva que me faz querer quebrar tudo à minha volta!;raiva
+Essa pessoa me deixou tão irritado que sinto como se estivesse prestes a explodir!;raiva
+Estou com tanta raiva que mal consigo olhar para essa pessoa!;raiva
+Essa situação me deixa tão irritado que sinto como se estivesse perdendo a sanidade!;raiva
+Minha raiva é tão forte que me faz querer gritar até ficar rouco!;raiva
+Sinto uma raiva tão grande que não sei como lidar com ela!;raiva
+Estou com uma raiva tão intensa que me faz querer bater em algo!;raiva
+Essa pessoa me deixou tão irritado que sinto como se estivesse à beira de um ataque de nervos!;raiva
+Essa situação me deixa tão bravo que sinto como se pudesse explodir a qualquer momento!;raiva
+Minha raiva é tão forte que me faz querer chorar!;raiva
+Estou com uma raiva que me faz querer sair correndo e nunca mais voltar!;raiva
+Essa pessoa me deixa tão irritado que sinto como se estivesse enlouquecendo!;raiva
+Sinto uma raiva tão grande que não consigo nem falar!;raiva
+Estou com tanta raiva que mal consigo pensar em outra coisa!;raiva
+Essa situação me deixa tão irritado que sinto como se estivesse prestes a explodir!;raiva
+Minha raiva é tão forte que me faz querer quebrar tudo à minha volta!;raiva
+Estou com uma raiva tão intensa que sinto como se estivesse à beira de um ataque de nervos!;raiva
+Sinto um vazio tão grande que parece que nada vai preencher.; tristeza
+Essa tristeza é tão profunda que não consigo nem chorar.;tristeza
+Estou tão triste que nem consigo levantar da cama.;tristeza
+A tristeza está tomando conta de mim.;tristeza
+Essa dor no coração é insuportável.;tristeza
+Sinto uma tristeza tão grande que parece que vou sufocar.;tristeza
+Essa situação me deixa com uma tristeza imensa.;tristeza
+Estou tão triste que não tenho vontade de fazer nada.;tristeza
+Essa dor é tão grande que não consigo nem expressar em palavras.;tristeza
+Sinto uma tristeza tão grande que parece que meu coração vai parar de bater.;tristeza
+Essa situação é tão triste que mal consigo suportar.;tristeza
+Estou com um nó na garganta que não consigo desfazer.;tristeza
+A tristeza está me deixando sem energia.;tristeza
+Essa dor é tão grande que não sei como vou superar.;tristeza
+Sinto uma tristeza tão profunda que nem consigo conversar com ninguém.;tristeza
+Essa situação é tão dolorosa que não consigo imaginar como vou superar.;tristeza
+Estou tão triste que não tenho forças para lutar contra essa dor.;tristeza
+Essa dor é tão intensa que parece que nunca vai passar.;tristeza
+Sinto uma tristeza tão grande que mal consigo respirar.;tristeza
+Essa situação me deixa com um aperto no coração que não consigo aliviar.;tristeza
+Estou com um peso no peito que não consigo suportar.;tristeza
+A tristeza está me deixando sem esperança.;tristeza
+Essa dor é tão grande que parece que nunca mais vou sorrir novamente.;tristeza
+Sinto uma tristeza tão grande que mal consigo dormir.;tristeza
+Essa situação é tão triste que não consigo nem imaginar um futuro melhor.;tristeza
+Estou tão triste que não consigo nem encontrar palavras para expressar minha dor.;tristeza
+Essa dor é tão intensa que parece que está me consumindo por completo.;tristeza
+Sinto uma tristeza tão grande que parece que nunca mais vou ser feliz novamente.;tristeza
+Essa situação me deixa com uma sensação de vazio que não consigo preencher.;tristeza
+Estou com uma tristeza tão grande que não consigo nem me concentrar em outras coisas.;tristeza
+Essa dor é tão grande que parece que nunca vai cicatrizar.;tristeza
+Sinto uma tristeza tão profunda que nem consigo imaginar um caminho para seguir em frente.;tristeza
+Essa situação é tão triste que mal consigo encontrar motivos para continuar lutando.;tristeza
+Estou tão triste que não tenho vontade de comer ou beber nada.;tristeza
+Essa dor é tão intensa que não consigo nem chorar mais.;tristeza
+Sinto uma tristeza tão grande que parece que o mundo inteiro está desabando sobre mim.;tristeza
+Essa situação me deixa com uma sensação de desamparo que não consigo aliviar.;tristeza
+Estou com uma tristeza tão grande que não consigo nem sair de casa.;tristeza
+Essa dor é tão grande que parece que nada vai me fazer sentir melhor novamente.;tristeza
+Não consigo parar de sorrir hoje!;alegria
+Estou sentindo uma alegria imensa que parece transbordar de mim.;alegria
+Não há nada melhor do que este momento de felicidade que estou vivendo agora.;alegria
+Meu coração está cheio de alegria e gratidão.;alegria
+Estou tão feliz que mal consigo me conter!;alegria
+Hoje é um daqueles dias em que tudo parece perfeito e eu não poderia estar mais feliz.;alegria
+A felicidade está me inundando de uma maneira que nunca experimentei antes.;alegria
+Meus pensamentos estão tão positivos e otimistas que eu sinto que posso conquistar o mundo.;alegria
+Estou tão feliz que quero abraçar o mundo inteiro!;alegria
+Essa sensação de felicidade é simplesmente indescritível.;alegria
+Tenho medo do que possa acontecer;medo
+não quero fazer nada;tristeza
+não vou fazer essa merda;raiva
+odeio minha vida;tristeza
+quero quebrar uma mesa de bar nas suas costas;raiva
